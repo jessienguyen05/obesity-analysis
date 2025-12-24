@@ -11,7 +11,7 @@ Obesity is a complex disease involving have too much body fat which was determin
 ## Tools
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib
-* **Environment:** Google Colab
+* **Environment:** Jupyter Notebook, Google Colab
 
 ## Sources
 * (https://www.neilsberg.com/insights/united-states-population-by-gender/)
