@@ -8,10 +8,10 @@ Obesity is a complex disease involving have too much body fat which was determin
 * Exploratory Data Analysis (EDA) with visualizations (Matplotlib).
 * Predictive modeling using Linear Regression and Logistic Regression (Random Forest and Decision Tree).
 
-## Tools
+## Requirements
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib
-* **Environment:** Jupyter Notebook, Google Colab
+* **Environment:** Google Colab (more preferred), Jupyter Notebook
 
 ## Sources
 * (https://www.neilsberg.com/insights/united-states-population-by-gender/)
